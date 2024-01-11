@@ -32,8 +32,8 @@
     
 <h2> Connect with me</h2>
 
+[<img align="left" alt="Devaharsha | Gmail" width="26px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />][gmail]
 [<img align="left" alt="Devaharsha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Devaharsha | Gmail" width="22px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/devaharsha-m-49779b118/
 [gmail]: meesarapud@gmail.com
