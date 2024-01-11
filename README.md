@@ -1,8 +1,8 @@
-<h1>Hi, I'm Devaharsha! 
+<img src="demo.png" alt="Background" class="center">
 
-<br><img src="demo.jpg" alt="Background"></br>
+<h1><pre>Hi, I'm Devaharsha!</h1>
 
-<h2>AI Projects</h2>
+<h2> AI Projects</h2>
 
 - <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
   - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
@@ -23,7 +23,7 @@
 
 - <b>Socket Programming</b>
   - [Socket](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
--<b>Arduino Projects</b>
+- <b>Arduino Projects</b>
   - [Bluetooth Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/BluetoothControlledSystem)
   - [Game Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/GameControlledSystem)
   - [Lock System](https://github.com/DevaharshaM/ArduinoProjects/tree/LockSystem)
@@ -33,6 +33,7 @@
 <h2> Connect with me</h2>
 
 [<img align="left" alt="Devaharsha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="Devaharsha | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/devaharsha-m-49779b118/
+[gmail]: meesarapud@gmail.com
