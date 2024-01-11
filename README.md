@@ -2,7 +2,7 @@
 
 <h1><pre>Hi, I'm Devaharsha!</h1>
 
-<h2> AI Projects</h2>
+<h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
 - <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
   - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
@@ -19,7 +19,7 @@
 - <b>Implementation of Washing Machine controller</b>
   - [Washing Machine](https://github.com/DevaharshaM/AI_Projects/tree/Washing_Machine)
 
-<h2>Embedded Systems Projects</h2>
+<h2><img width = 18px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
 
 - <b>Socket Programming</b>
   - [Socket](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
