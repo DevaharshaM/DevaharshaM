@@ -34,7 +34,7 @@
 
 [<img align="left" alt="Devaharsha | Gmail" width="26px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />][gmail]
 [<img align="left" alt="Devaharsha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Devaharsha | Whatsapp" width="22px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" />][Whatsapp]
+[<img align="left" alt="Devaharsha | Whatsapp" width="25px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" />][Whatsapp]
 
 [linkedin]: https://www.linkedin.com/in/devaharsha-m-49779b118/
 [gmail]: meesarapud@gmail.com
