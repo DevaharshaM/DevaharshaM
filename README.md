@@ -32,7 +32,7 @@
     
 <h2> Connect with me</h2>
 
-[<img align="left" alt="Devaharsha | Gmail" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />][gmail]
+[<img align="left" alt="Devaharsha | Gmail" width="32px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />][gmail]
 [<img align="left" alt="Devaharsha | LinkedIn" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" />][linkedin]
 [<img align="left" alt="Devaharsha | Whatsapp" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" />][Whatsapp]
 
