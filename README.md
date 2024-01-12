@@ -33,7 +33,7 @@
 <h2> Connect with me</h2>
 
 [<img align="left" alt="Devaharsha | Gmail" width="26px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />][gmail]
-[<img align="left" alt="Devaharsha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Devaharsha | LinkedIn" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" />][linkedin]
 [<img align="left" alt="Devaharsha | Whatsapp" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" />][Whatsapp]
 
 [linkedin]: https://www.linkedin.com/in/devaharsha-m-49779b118/
