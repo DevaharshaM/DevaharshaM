@@ -4,7 +4,7 @@
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/final_gif.gif" width="40" height="40" />
+<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/final_gif.gif" width="350" height="400" />
 
 
 - <b>Placing 8 queens in a 8x8 chessboard suc![image](https://github.com/DevaharshaM/DevaharshaM/assets/121371183/abb4481c-88ec-4bc9-97e3-d444266c7ee5)
