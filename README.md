@@ -28,7 +28,7 @@
   - [Socket](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
 - <b>Arduino Projects</b>
 
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align = "right" width="350" height="300" />
+<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align = "right" width="150" height="100" />
 
   - [Bluetooth Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/BluetoothControlledSystem)
   - [Game Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/GameControlledSystem)
