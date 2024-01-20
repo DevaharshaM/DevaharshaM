@@ -4,12 +4,11 @@
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
-<p align="center">
-  <img src="[demo.gif](https://github.com/DevaharshaM/DevaharshaM/assets/121371183/de328a66-9207-4ab6-aac9-d1198a7f9f62)" alt="animated" />
-</p>
+<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/final_gif.gif" width="40" height="40" />
 
 
-- <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
+- <b>Placing 8 queens in a 8x8 chessboard suc![image](https://github.com/DevaharshaM/DevaharshaM/assets/121371183/abb4481c-88ec-4bc9-97e3-d444266c7ee5)
+h that no two queens attack each other</b>
   - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
 - <b>Detecting human faces in an image</b>
   - [Face Detection](https://github.com/DevaharshaM/AI_Projects/tree/Face_Detection)
