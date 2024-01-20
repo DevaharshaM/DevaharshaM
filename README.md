@@ -6,11 +6,11 @@
 
 - <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
   - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
-- <b>Detecting human faces in an image</b>
-  - [Face Detection](https://github.com/DevaharshaM/AI_Projects/tree/Face_Detection)
 
 <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/final_gif.gif" align = "right" width="250" height="300" />
 
+- <b>Detecting human faces in an image</b>
+  - [Face Detection](https://github.com/DevaharshaM/AI_Projects/tree/Face_Detection)
 - <b>Implementing the scenario of the famous TV show "Monty Hall"</b>
   - [Monty Hall](https://github.com/DevaharshaM/AI_Projects/tree/Monty_Hall)
 - <b>Recognizing object in an image</b>
