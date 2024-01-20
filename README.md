@@ -4,7 +4,8 @@
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
-![final-ezgif com-resize](https://github.com/DevaharshaM/DevaharshaM/assets/121371183/8760f884-0bcb-4355-8394-11511dd54434)
+
+![final-ezgif com-resize](https://github.com/DevaharshaM/DevaharshaM/assets/121371183/de328a66-9207-4ab6-aac9-d1198a7f9f62)
 
 
 - <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
