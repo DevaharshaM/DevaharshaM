@@ -25,9 +25,10 @@
 <h2><img width = 18px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
 
 - <b>Socket Programming</b>
+  - [Socket](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
 
 <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align = "right" width="350" height="200" />
-  - [Socket](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
+    
 - <b>Arduino Projects</b>
   - [Bluetooth Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/BluetoothControlledSystem)
   - [Game Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/GameControlledSystem)
