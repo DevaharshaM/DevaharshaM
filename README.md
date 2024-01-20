@@ -4,6 +4,9 @@
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
+![final-ezgif com-resize](https://github.com/DevaharshaM/DevaharshaM/assets/121371183/8760f884-0bcb-4355-8394-11511dd54434)
+
+
 - <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
   - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
 - <b>Detecting human faces in an image</b>
