@@ -1,4 +1,4 @@
-<img src="demo.png" alt="Background" class="center">
+<img src="demo1.png" alt="Background" class="center">
 
 <h1 align="center"><pre>Hi, I'm Devaharsha!</h1>
 
