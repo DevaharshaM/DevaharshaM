@@ -1,6 +1,6 @@
 <img src="demo.png" alt="Background" class="center">
 
-<h1><pre>Hi, I'm Devaharsha!</h1>
+<h1 align="center"><pre>Hi, I'm Devaharsha!</h1>
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/code.png"> AI Projects</h2>
 
@@ -25,7 +25,6 @@
 <h2><img width = 18px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
 
 - <b>Socket Programming</b>
-
 <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align = "right" width="360" height="220" />
 
   - [Socket](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
