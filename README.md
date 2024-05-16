@@ -4,21 +4,21 @@
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/banner.png"> AI Projects</h2>
 
-- <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
-  - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
+- <b>Image generation using GAN</b>
+  - [GAN](https://github.com/DevaharshaM/AI_Projects/tree/GAN)
 
 <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align = "right" width="350" height="300" />
 
+- <b>Classification of handwritten digits</b>
+  - [DNN](https://github.com/DevaharshaM/AI_Projects/tree/DNN)
 - <b>Detecting human faces in an image</b>
   - [Face Detection](https://github.com/DevaharshaM/AI_Projects/tree/Face_Detection)
 - <b>Implementing the scenario of the famous TV show "Monty Hall"</b>
   - [Monty Hall](https://github.com/DevaharshaM/AI_Projects/tree/Monty_Hall)
 - <b>Implementation of Washing Machine controller</b>
   - [Washing Machine](https://github.com/DevaharshaM/AI_Projects/tree/Washing_Machine)
-- <b>Classification of handwritten digits</b>
-  - [DNN](https://github.com/DevaharshaM/AI_Projects/tree/DNN)
-- <b>Image generation using GAN</b>
-  - [GAN](https://github.com/DevaharshaM/AI_Projects/tree/GAN)
+- <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
+  - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
 
 <h2><img width = 18px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
 
