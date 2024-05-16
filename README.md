@@ -13,14 +13,12 @@
   - [Face Detection](https://github.com/DevaharshaM/AI_Projects/tree/Face_Detection)
 - <b>Implementing the scenario of the famous TV show "Monty Hall"</b>
   - [Monty Hall](https://github.com/DevaharshaM/AI_Projects/tree/Monty_Hall)
-- <b>Recognizing object in an image</b>
-  - [Object Recognition](https://github.com/DevaharshaM/AI_Projects/tree/Object_Recognition)
-- <b>Finding the optimal route in the given map</b>
-  - [Route Planning](https://github.com/DevaharshaM/AI_Projects/tree/Route_Planning)
-- <b>Code for movie review sytem</b>
-  - [Sentiment Analysis](https://github.com/DevaharshaM/AI_Projects/tree/Sentiment_Analysis)
 - <b>Implementation of Washing Machine controller</b>
   - [Washing Machine](https://github.com/DevaharshaM/AI_Projects/tree/Washing_Machine)
+- <b>Classification of handwritten digits</b>
+  - [DNN](https://github.com/DevaharshaM/AI_Projects/tree/DNN)
+- <b>Image generation using GAN</b>
+  - [GAN](https://github.com/DevaharshaM/AI_Projects/tree/GAN)
 
 <h2><img width = 18px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
 
