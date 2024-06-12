@@ -28,7 +28,11 @@
 <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align = "right" width="360" height="220" />
 
   [Socket](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
-    
+
+- <b>Raspberry Pi Projects</b>
+  - [Linear & Rotational Distance](https://github.com/DevaharshaM/RaspberryPiProjects/tree/Accel/Gyro_Sensors)
+  - [Displaying Pattern on 8x8 LED Matrix](https://github.com/DevaharshaM/RaspberryPiProjects/tree/PatternDisplay)
+        
 - <b>Arduino Projects</b>
   - [Bluetooth Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/BluetoothControlledSystem)
   - [Game Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/GameControlledSystem)
