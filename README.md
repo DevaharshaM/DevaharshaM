@@ -32,6 +32,7 @@
 - <b>Raspberry Pi Projects</b>
   - [Linear & Rotational Distance](https://github.com/DevaharshaM/RaspberryPiProjects/tree/Accel/Gyro_Sensors)
   - [Displaying Pattern on 8x8 LED Matrix](https://github.com/DevaharshaM/RaspberryPiProjects/tree/PatternDisplay)
+  - [Capturing Depth and RGD data streams](https://github.com/DevaharshaM/RaspberryPiProjects/tree/RealsenseDemo)
         
 - <b>Arduino Projects</b>
   - [Bluetooth Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/BluetoothControlledSystem)
