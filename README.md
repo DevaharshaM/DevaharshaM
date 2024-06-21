@@ -4,11 +4,13 @@
 
 <h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/banner.png"> AI Projects</h2>
 
-- <b>Image generation using GAN</b>
-  - [GAN](https://github.com/DevaharshaM/AI_Projects/tree/GAN)
+- <b>Personalized University Selection</b>
+  - [Dashboard](https://github.com/yashaharshika/Data-Visualization/tree/main)
 
 <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align = "right" width="350" height="300" />
 
+- <b>Image generation using GAN</b>
+  - [GAN](https://github.com/DevaharshaM/AI_Projects/tree/GAN)
 - <b>Classification of handwritten digits</b>
   - [DNN](https://github.com/DevaharshaM/AI_Projects/tree/DNN)
 - <b>Detecting human faces in an image</b>
