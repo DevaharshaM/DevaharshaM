@@ -46,9 +46,9 @@
 <h2> Connect with me</h2>
 
 <a href="mailto:meesarapud@gmail.com"><img align="left" alt="Devaharsha | Gmail" width="32px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" /></a>
-[<img align="left" alt="Devaharsha | LinkedIn" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" />][linkedin]
-[<img align="left" alt="Devaharsha | Whatsapp" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" />][Whatsapp]
+<a href="https://www.linkedin.com/in/devaharsha-m-49779b118/"><img align="left" alt="Devaharsha | LinkedIn" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" /></a>
+<a href="https://wa.me/447780246719"><img align="left" alt="Devaharsha | Whatsapp" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" /></a>
 
 [linkedin]: https://www.linkedin.com/in/devaharsha-m-49779b118/
 [gmail]: mailto:meesarapud@gmail.com
-[Whatsapp]: +447780246719
+[Whatsapp]: https://wa.me/447780246719
