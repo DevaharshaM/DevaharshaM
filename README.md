@@ -49,6 +49,6 @@
 <a href="https://www.linkedin.com/in/devaharsha-m-49779b118/"><img align="left" alt="Devaharsha | LinkedIn" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" /></a>
 <a href="https://wa.me/447780246719"><img align="left" alt="Devaharsha | Whatsapp" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" /></a>
 
-[linkedin]: https://www.linkedin.com/in/devaharsha-m-49779b118/
+[linkedin]: https://www.linkedin.com/in/devaharsham/
 [gmail]: mailto:meesarapud@gmail.com
 [Whatsapp]: https://wa.me/447780246719
