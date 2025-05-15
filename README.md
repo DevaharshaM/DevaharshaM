@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi, I'm Devaharsha!</h1>
 
+<p align="center">
+  🔧 From GPIO to AI — I build smart systems that think, sense, and act.<br>
+  🧠 Passionate about embedding intelligence into the real world.
+</p>
+
 ---
 
 <h2><img width="18px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
@@ -25,8 +30,6 @@
 
 - <b>Socket Programming in Python</b>  
   - [Client-Server Communication](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
-
----
 
 <h2><img width="22px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/banner.png"> AI / Data Science Projects</h2>
 
@@ -55,8 +58,6 @@
 
 - <b>Principal Component Analysis (PCA)</b>  
   - [PCA](https://github.com/DevaharshaM/AI_Projects/blob/PCA/pca.py)
-
----
 
 <h2>🧩 Other Projects</h2>
 
