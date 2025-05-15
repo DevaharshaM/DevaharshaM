@@ -3,8 +3,8 @@
 <h1 align="center">Hi, I'm Devaharsha!</h1>
 
 <p align="center">
-  🔧 From GPIO to AI — I build smart systems that think, sense, and act.<br>
-  🧠 Passionate about embedding intelligence into the real world.
+  🔧 From GPIO to AI — I design intelligent systems that think, sense, and act.<br>  
+🧠 Passionate about bridging embedded systems with real-world intelligence.
 </p>
 
 ---
@@ -66,16 +66,10 @@
 
 ---
 
-<h2>📬 Connect with Me</h2>
+## 📬 Connect with Me
 
-<a href="mailto:meesarapud@gmail.com" style="margin-right: 20px;">
-  <img alt="Devaharsha | Gmail" width="32px" style="border: none;" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />
-</a>
+If you'd like to collaborate, have a question, or want to connect:
 
-<a href="https://www.linkedin.com/in/devaharsham" style="margin-right: 20px;">
-  <img alt="Devaharsha | LinkedIn" width="28px" style="border: none;" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" />
-</a>
-
-<a href="https://wa.me/447780246719">
-  <img alt="Devaharsha | WhatsApp" width="28px" style="border: none;" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" />
-</a>
+- 📧 **Email**: [meesarapud@gmail.com](mailto:meesarapud@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/devaharsham](https://www.linkedin.com/in/devaharsham)
+- 💬 **WhatsApp**: [+44 7780 246719](https://wa.me/447780246719)
