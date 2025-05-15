@@ -72,6 +72,15 @@
 
 ---
 
+## 🛠️ Tech Stack
+
+- **Microcontrollers & Platforms:** STM32, ESP32, LPC55s0X, TI CC3200, Raspberry Pi, Arduino  
+- **Interfaces & Protocols:** CAN, UART, SPI, I2C, GPIO, USB, WiFi  
+- **Operating System:** FreeRTOS  
+- **AI & Data Science (Academic):** Python (NumPy, OpenCV), R, Scikit-learn, TensorFlow (basic)
+
+---
+
 ## 📬 Connect with Me
 
 If you'd like to collaborate, have a question, or just want to connect:
