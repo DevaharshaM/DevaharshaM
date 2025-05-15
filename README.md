@@ -3,15 +3,18 @@
 <h1 align="center">Hi, I'm Devaharsha!</h1>
 
 <p align="center">
-  🔧 From GPIO to AI — I design intelligent systems that think, sense, and act.<br>  
-🧠 Passionate about bridging embedded systems with real-world intelligence.
+  🔧 From GPIO to AI — I design intelligent systems that think, sense, and act.<br>
+  🧠 Passionate about bridging embedded systems with real-world intelligence.
 </p>
 
 ---
 
 <h2><img width="18px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
 
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align="right" width="380" height="280" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor_small.gif">
+  <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align="right" width="380" height="280" />
+</picture>
 
 - <b>ESP32 Projects</b>  
   - [Displaying Alphabet on OLED](https://github.com/DevaharshaM/EspProjects/tree/OLEDdisplay)
@@ -33,7 +36,10 @@
 
 <h2><img width="22px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/banner.png"> AI / Data Science Projects</h2>
 
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align="right" width="380" height="300" />
+<picture>
+  <source media="(max-width: 768px)" srcset="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai_small.gif">
+  <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align="right" width="380" height="300" />
+</picture>
 
 - <b>Personalized University Selection Dashboard</b>  
   - [Dashboard](https://github.com/yashaharshika/Data-Visualization/tree/main)
@@ -68,8 +74,8 @@
 
 ## 📬 Connect with Me
 
-If you'd like to collaborate, have a question, or want to connect:
+If you'd like to collaborate, have a question, or just want to connect:
 
-- 📧 **Email**: [meesarapud@gmail.com](mailto:meesarapud@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/devaharsham](https://www.linkedin.com/in/devaharsham)
+- 📧 **Email**: [meesarapud@gmail.com](mailto:meesarapud@gmail.com)  
+- 💼 **LinkedIn**: [linkedin.com/in/devaharsham](https://www.linkedin.com/in/devaharsham)  
 - 💬 **WhatsApp**: [+44 7780 246719](https://wa.me/447780246719)
