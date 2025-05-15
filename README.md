@@ -6,7 +6,7 @@
 
 <h2><img width="18px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
 
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align="right" width="360" height="280" />
+<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align="right" width="380" height="280" />
 
 - <b>ESP32 Projects</b>  
   - [Displaying Alphabet on OLED](https://github.com/DevaharshaM/EspProjects/tree/OLEDdisplay)
@@ -30,7 +30,7 @@
 
 <h2><img width="22px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/banner.png"> AI / Data Science Projects</h2>
 
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align="right" width="350" height="300" />
+<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align="right" width="380" height="300" />
 
 - <b>Personalized University Selection Dashboard</b>  
   - [Dashboard](https://github.com/yashaharshika/Data-Visualization/tree/main)
