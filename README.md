@@ -1,54 +1,80 @@
-<img src="demo.png" alt="Background" class="center">
+<img src="demo.png" alt="Background" class="center" />
 
-<h1 align="center"><pre>Hi, I'm Devaharsha!</h1>
+<h1 align="center">Hi, I'm Devaharsha!</h1>
 
-<h2><img width = 22px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/banner.png"> AI Projects</h2>
+---
 
-- <b>Personalized University Selection</b>
+<h2><img width="18px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
+
+<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align="right" width="360" height="280" />
+
+- <b>ESP32 Projects</b>  
+  - [Displaying Alphabet on OLED](https://github.com/DevaharshaM/EspProjects/tree/OLEDdisplay)
+
+- <b>Raspberry Pi Projects</b>  
+  - [Linear & Rotational Distance using Accelerometer/Gyroscope Sensors](https://github.com/DevaharshaM/RaspberryPiProjects/tree/Accel/Gyro_Sensors)  
+  - [Pattern Display on 8x8 LED Matrix](https://github.com/DevaharshaM/RaspberryPiProjects/tree/PatternDisplay)  
+  - [RealSense Camera Streaming (Depth + RGB)](https://github.com/DevaharshaM/RaspberryPiProjects/tree/RealsenseDemo)
+
+- <b>Arduino Projects</b>  
+  - [Bluetooth Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/BluetoothControlledSystem)  
+  - [Game Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/GameControlledSystem)  
+  - [Lock System](https://github.com/DevaharshaM/ArduinoProjects/tree/LockSystem)  
+  - [Remote Controlled Home Automation](https://github.com/DevaharshaM/ArduinoProjects/tree/RemoteControlledHomeAutomation)  
+  - [Smoke Detection System](https://github.com/DevaharshaM/ArduinoProjects/tree/SmokeDetectionSystem)
+
+- <b>Socket Programming in Python</b>  
+  - [Client-Server Communication](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
+
+---
+
+<h2><img width="22px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/banner.png"> AI / Data Science Projects</h2>
+
+<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align="right" width="350" height="300" />
+
+- <b>Personalized University Selection Dashboard</b>  
   - [Dashboard](https://github.com/yashaharshika/Data-Visualization/tree/main)
 
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/ai.gif" align = "right" width="350" height="300" />
-
-- <b>Image generation using GAN</b>
+- <b>Image Generation using GAN</b>  
   - [GAN](https://github.com/DevaharshaM/AI_Projects/tree/GAN)
-- <b>Classification of handwritten digits</b>
+
+- <b>Handwritten Digit Classification using DNN</b>  
   - [DNN](https://github.com/DevaharshaM/AI_Projects/tree/DNN)
-- <b>Detecting human faces in an image</b>
+
+- <b>Face Detection using Haar Cascades</b>  
   - [Face Detection](https://github.com/DevaharshaM/AI_Projects/tree/Face_Detection)
-- <b>Implementing the scenario of the famous TV show "Monty Hall"</b>
+
+- <b>Monty Hall Problem Simulation</b>  
   - [Monty Hall](https://github.com/DevaharshaM/AI_Projects/tree/Monty_Hall)
-- <b>Implementation of Washing Machine controller</b>
+
+- <b>Washing Machine Controller Simulation</b>  
   - [Washing Machine](https://github.com/DevaharshaM/AI_Projects/tree/Washing_Machine)
-- <b>Placing 8 queens in a 8x8 chessboard such that no two queens attack each other</b>
-  - [8-Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
-- <b>Principal Component Analysis</b>
-  - [PCA](https://github.com/DevaharshaM/AI_Projects/blob/PCA/pca.py) 
 
-<h2><img width = 18px src = "https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.png"> Embedded Systems Projects</h2>
+- <b>8 Queens Problem using Backtracking</b>  
+  - [8 Queens](https://github.com/DevaharshaM/AI_Projects/tree/8_Queens)
 
-- <b>Socket Programming</b>
-<img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align = "right" width="360" height="220" />
+- <b>Principal Component Analysis (PCA)</b>  
+  - [PCA](https://github.com/DevaharshaM/AI_Projects/blob/PCA/pca.py)
 
-  [Socket](https://github.com/DevaharshaM/PythonProjects/tree/Socket_Programming)
+---
 
-- <b>Raspberry Pi Projects</b>
-  - [Linear & Rotational Distance](https://github.com/DevaharshaM/RaspberryPiProjects/tree/Accel/Gyro_Sensors)
-  - [Displaying Pattern on 8x8 LED Matrix](https://github.com/DevaharshaM/RaspberryPiProjects/tree/PatternDisplay)
-  - [Capturing Depth and RGD data streams](https://github.com/DevaharshaM/RaspberryPiProjects/tree/RealsenseDemo)
-        
-- <b>Arduino Projects</b>
-  - [Bluetooth Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/BluetoothControlledSystem)
-  - [Game Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/GameControlledSystem)
-  - [Lock System](https://github.com/DevaharshaM/ArduinoProjects/tree/LockSystem)
-  - [Home Automation](https://github.com/DevaharshaM/ArduinoProjects/tree/RemoteControlledHomeAutomation)
-  - [Smoke Detection System](https://github.com/DevaharshaM/ArduinoProjects/tree/SmokeDetectionSystem)
-    
-<h2> Connect with me</h2>
+<h2>🛠️ Tools & Utilities</h2>
 
-<a href="mailto:meesarapud@gmail.com"><img align="left" alt="Devaharsha | Gmail" width="32px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" /></a>
-<a href="https://www.linkedin.com/in/devaharsham"><img align="left" alt="Devaharsha | LinkedIn" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" /></a>
-<a href="https://wa.me/447780246719"><img align="left" alt="Devaharsha | Whatsapp" width="28px" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" /></a>
+- <b>QR Code Generator in Python</b>  
+  - QR Code Generator
 
-[linkedin]: https://www.linkedin.com/in/devaharsham
-[gmail]: mailto:meesarapud@gmail.com
-[Whatsapp]: https://wa.me/447780246719
+---
+
+<h2>📬 Connect with Me</h2>
+
+<a href="mailto:meesarapud@gmail.com" style="margin-right: 20px;">
+  <img alt="Devaharsha | Gmail" width="32px" style="border: none;" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/mail.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/devaharsham" style="margin-right: 20px;">
+  <img alt="Devaharsha | LinkedIn" width="28px" style="border: none;" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/linkedin.svg" />
+</a>
+
+<a href="https://wa.me/447780246719">
+  <img alt="Devaharsha | WhatsApp" width="28px" style="border: none;" src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/whatsapp.svg" />
+</a>
