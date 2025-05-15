@@ -61,7 +61,7 @@
 <h2>🛠️ Tools & Utilities</h2>
 
 - <b>QR Code Generator in Python</b>  
-  - QR Code Generator
+  - [QR Code Generator](https://github.com/DevaharshaM/PythonProjects/tree/qrcode)
 
 ---
 
