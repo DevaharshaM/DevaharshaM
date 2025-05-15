@@ -74,7 +74,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Microcontrollers & Platforms:** STM32, ESP32, LPC55s0X, TI CC3200, Raspberry Pi, Arduino  
+- **Microcontrollers & Platforms:** iMXRT based, STM32, ESP32, LPC55s0X, TI CC3200, Raspberry Pi, Arduino  
 - **Interfaces & Protocols:** CAN, UART, SPI, I2C, GPIO, USB, WiFi  
 - **Operating System:** FreeRTOS  
 - **AI & Data Science (Academic):** Python (NumPy, OpenCV), R, Scikit-learn, TensorFlow (basic)
