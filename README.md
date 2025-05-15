@@ -12,7 +12,7 @@
   - [Displaying Alphabet on OLED](https://github.com/DevaharshaM/EspProjects/tree/OLEDdisplay)
 
 - <b>Raspberry Pi Projects</b>  
-  - [Linear & Rotational Distance using Accelerometer/Gyroscope Sensors](https://github.com/DevaharshaM/RaspberryPiProjects/tree/Accel/Gyro_Sensors)  
+  - [Linear & Rotational Distance](https://github.com/DevaharshaM/RaspberryPiProjects/tree/Accel/Gyro_Sensors)  
   - [Pattern Display on 8x8 LED Matrix](https://github.com/DevaharshaM/RaspberryPiProjects/tree/PatternDisplay)  
   - [RealSense Camera Streaming (Depth + RGB)](https://github.com/DevaharshaM/RaspberryPiProjects/tree/RealsenseDemo)
 
