@@ -16,15 +16,15 @@
   <img src="https://github.com/DevaharshaM/DevaharshaM/blob/inception/processor.gif" align="right" width="380" height="280" />
 </picture>
 
-- <b>ESP32 Projects</b>  
+- <b>ESP32 Projects</b> <sub>[<a href="https://github.com/DevaharshaM/EspProjects/wiki/ESP32%E2%80%90WROOM%E2%80%9032" title="View ESP32 Wiki">Docs</a>]</sub>  
   - [Displaying Alphabet on OLED](https://github.com/DevaharshaM/EspProjects/tree/OLEDdisplay)
 
-- <b>Raspberry Pi Projects</b>  
+- <b>Raspberry Pi Projects</b> <sub>[<a href="https://github.com/DevaharshaM/RaspberryPiProjects/wiki/Raspberry-Pi-4-Model-B" title="View Raspberry Pi Wiki">Docs</a>]</sub>  
   - [Linear & Rotational Distance](https://github.com/DevaharshaM/RaspberryPiProjects/tree/Accel/Gyro_Sensors)  
   - [Pattern Display on 8x8 LED Matrix](https://github.com/DevaharshaM/RaspberryPiProjects/tree/PatternDisplay)  
   - [RealSense Camera Streaming (Depth + RGB)](https://github.com/DevaharshaM/RaspberryPiProjects/tree/RealsenseDemo)
 
-- <b>Arduino Projects</b>  
+- <b>Arduino Projects</b> <sub>[<a href="https://github.com/DevaharshaM/ArduinoProjects/wiki/Arduino-UNO-R3" title="View Arduino UNO R3 Wiki">Docs</a>]</sub>  
   - [Bluetooth Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/BluetoothControlledSystem)  
   - [Game Controlled System](https://github.com/DevaharshaM/ArduinoProjects/tree/GameControlledSystem)  
   - [Lock System](https://github.com/DevaharshaM/ArduinoProjects/tree/LockSystem)  
